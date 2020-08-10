@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "//matthewkwap.github.io/rect/static/css/main.f0136ab1.chunk.css",
+    "main.js": "//matthewkwap.github.io/rect/static/js/main.43643698.chunk.js",
+    "main.js.map": "//matthewkwap.github.io/rect/static/js/main.43643698.chunk.js.map",
+    "runtime-main.js": "//matthewkwap.github.io/rect/static/js/runtime-main.ef5c6cce.js",
+    "runtime-main.js.map": "//matthewkwap.github.io/rect/static/js/runtime-main.ef5c6cce.js.map",
+    "static/js/2.16ce35ba.chunk.js": "//matthewkwap.github.io/rect/static/js/2.16ce35ba.chunk.js",
+    "static/js/2.16ce35ba.chunk.js.map": "//matthewkwap.github.io/rect/static/js/2.16ce35ba.chunk.js.map",
+    "index.html": "//matthewkwap.github.io/rect/index.html",
+    "precache-manifest.39213a89729529d558a1409a93a3da2d.js": "//matthewkwap.github.io/rect/precache-manifest.39213a89729529d558a1409a93a3da2d.js",
+    "service-worker.js": "//matthewkwap.github.io/rect/service-worker.js",
+    "static/css/main.f0136ab1.chunk.css.map": "//matthewkwap.github.io/rect/static/css/main.f0136ab1.chunk.css.map",
+    "static/js/2.16ce35ba.chunk.js.LICENSE.txt": "//matthewkwap.github.io/rect/static/js/2.16ce35ba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef5c6cce.js",
+    "static/js/2.16ce35ba.chunk.js",
+    "static/css/main.f0136ab1.chunk.css",
+    "static/js/main.43643698.chunk.js"
+  ]
+}
